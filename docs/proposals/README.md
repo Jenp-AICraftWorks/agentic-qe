@@ -4,7 +4,22 @@ This directory contains comprehensive proposals for integrating the Agentic QE F
 
 ## Documents
 
-### 1. [Executive Summary](./EXECUTIVE-SUMMARY.md)
+### 1. [Visual Summary](./VISUAL-SUMMARY.md) ⭐ START HERE
+**Quick Read**: 3-5 minutes  
+**Purpose**: Visual overview with diagrams, numbers, and key highlights
+
+**Key Points**:
+- Before/after comparison diagrams
+- Performance metrics by the numbers
+- Cost analysis with real examples
+- Timeline visualization
+- Migration path comparison
+
+**Best For**: First-time readers, quick understanding, visual learners
+
+---
+
+### 2. [Executive Summary](./EXECUTIVE-SUMMARY.md)
 **Quick Read**: 5-10 minutes  
 **Purpose**: High-level overview for decision makers
 
@@ -20,7 +35,7 @@ This directory contains comprehensive proposals for integrating the Agentic QE F
 
 ---
 
-### 2. [Full Integration Proposal](./AICRAFTWORKS-INTEGRATION-PROPOSAL.md)
+### 3. [Full Integration Proposal](./AICRAFTWORKS-INTEGRATION-PROPOSAL.md)
 **Read Time**: 30-45 minutes  
 **Purpose**: Comprehensive integration strategy and implementation plan
 
@@ -39,7 +54,7 @@ This directory contains comprehensive proposals for integrating the Agentic QE F
 
 ---
 
-### 3. [Integration Architecture](./INTEGRATION-ARCHITECTURE.md)
+### 4. [Integration Architecture](./INTEGRATION-ARCHITECTURE.md)
 **Read Time**: 20-30 minutes  
 **Purpose**: Detailed technical architecture and design patterns
 
@@ -82,16 +97,18 @@ Combine **Agentic QE** (17 testing agents) + **Claude Flow** (54 dev agents) →
 ## How to Use These Documents
 
 ### For Leadership/Stakeholders
-1. Start with [Executive Summary](./EXECUTIVE-SUMMARY.md)
-2. Review "Strategic Value" and "Key Benefits"
-3. Check "Success Metrics" and "Risk Mitigation"
-4. Make go/no-go decision
+1. Start with [Visual Summary](./VISUAL-SUMMARY.md) ⭐
+2. Review [Executive Summary](./EXECUTIVE-SUMMARY.md)
+3. Check "Strategic Value" and "Key Benefits"
+4. Review "Success Metrics" and "Risk Mitigation"
+5. Make go/no-go decision
 
 ### For Technical Teams
-1. Read [Executive Summary](./EXECUTIVE-SUMMARY.md) for context
-2. Deep dive into [Full Proposal](./AICRAFTWORKS-INTEGRATION-PROPOSAL.md)
-3. Study [Architecture](./INTEGRATION-ARCHITECTURE.md) for implementation details
-4. Start with Phase 1 tasks
+1. Skim [Visual Summary](./VISUAL-SUMMARY.md) for context ⭐
+2. Read [Executive Summary](./EXECUTIVE-SUMMARY.md) for overview
+3. Deep dive into [Full Proposal](./AICRAFTWORKS-INTEGRATION-PROPOSAL.md)
+4. Study [Architecture](./INTEGRATION-ARCHITECTURE.md) for implementation details
+5. Start with Phase 1 tasks
 
 ### For Architects/Designers
 1. Review [Architecture](./INTEGRATION-ARCHITECTURE.md) first
@@ -105,6 +122,7 @@ Combine **Agentic QE** (17 testing agents) + **Claude Flow** (54 dev agents) →
 
 | Document | Version | Date | Status |
 |----------|---------|------|--------|
+| Visual Summary | 1.0 | 2025-10-30 | Draft |
 | Executive Summary | 1.0 | 2025-10-30 | Draft |
 | Integration Proposal | 1.0 | 2025-10-30 | Draft |
 | Integration Architecture | 1.0 | 2025-10-30 | Draft |
