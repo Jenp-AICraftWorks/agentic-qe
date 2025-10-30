@@ -4,7 +4,22 @@ This directory contains comprehensive proposals for integrating the Agentic QE F
 
 ## Documents
 
-### 1. [Visual Summary](./VISUAL-SUMMARY.md) ⭐ START HERE
+### 🚀 [Next Steps Guide](./NEXT-STEPS.md) - Action Items
+**Quick Read**: 5 minutes  
+**Purpose**: Clear guidance on what to do next
+
+**Contents**:
+- Decision framework
+- Approval checklist
+- Week 1 action items (if approved)
+- Alternative approaches (if not approved)
+- Feedback template
+
+**Best For**: Decision makers, project managers, action-oriented readers
+
+---
+
+### ⭐ [Visual Summary](./VISUAL-SUMMARY.md) - START HERE
 **Quick Read**: 3-5 minutes  
 **Purpose**: Visual overview with diagrams, numbers, and key highlights
 
@@ -20,8 +35,6 @@ This directory contains comprehensive proposals for integrating the Agentic QE F
 ---
 
 ### 2. [Executive Summary](./EXECUTIVE-SUMMARY.md)
-**Quick Read**: 5-10 minutes  
-**Purpose**: High-level overview for decision makers
 
 **Key Points**:
 - Strategic value and benefits
@@ -32,6 +45,8 @@ This directory contains comprehensive proposals for integrating the Agentic QE F
 - Recommendation
 
 **Best For**: Leadership, stakeholders, quick review
+
+---
 
 ---
 
@@ -51,6 +66,8 @@ This directory contains comprehensive proposals for integrating the Agentic QE F
 9. Appendices
 
 **Best For**: Technical leads, architects, implementation teams
+
+---
 
 ---
 
@@ -97,11 +114,10 @@ Combine **Agentic QE** (17 testing agents) + **Claude Flow** (54 dev agents) →
 ## How to Use These Documents
 
 ### For Leadership/Stakeholders
-1. Start with [Visual Summary](./VISUAL-SUMMARY.md) ⭐
-2. Review [Executive Summary](./EXECUTIVE-SUMMARY.md)
-3. Check "Strategic Value" and "Key Benefits"
-4. Review "Success Metrics" and "Risk Mitigation"
-5. Make go/no-go decision
+1. Start with [Next Steps](./NEXT-STEPS.md) for decision framework 🚀
+2. Review [Visual Summary](./VISUAL-SUMMARY.md) for quick overview ⭐
+3. Read [Executive Summary](./EXECUTIVE-SUMMARY.md) for details
+4. Use decision checklist to make go/no-go decision
 
 ### For Technical Teams
 1. Skim [Visual Summary](./VISUAL-SUMMARY.md) for context ⭐
@@ -122,6 +138,7 @@ Combine **Agentic QE** (17 testing agents) + **Claude Flow** (54 dev agents) →
 
 | Document | Version | Date | Status |
 |----------|---------|------|--------|
+| Next Steps Guide | 1.0 | 2025-10-30 | Draft |
 | Visual Summary | 1.0 | 2025-10-30 | Draft |
 | Executive Summary | 1.0 | 2025-10-30 | Draft |
 | Integration Proposal | 1.0 | 2025-10-30 | Draft |
